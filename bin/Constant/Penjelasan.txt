@@ -1,0 +1,9 @@
+Constant
+
+Variable di PHP sifatnya mutable, artinya bisa dirubah
+Jika kita ingin membuat variable yang immutable (tidak bisa dirubah), maka tidak bisa kita lakukan di PHP
+Sebagai gantinya, terdapat fitur yang namanya Constant
+
+Constant adalah tempat untuk menyimpan data yang tidak bisa dirubah lagi setelah di deklarasikan
+untuk membuat constant kita bisa menggunakan function define()
+best practice pembuatan nama constant adalah menggunakan UPPER_CASE

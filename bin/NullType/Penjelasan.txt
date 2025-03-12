@@ -1,0 +1,6 @@
+DATA NULL
+
+1. Nilai NULL merepresentasikan sebuah variable tanpa nilai.
+2. Saat kita membuat variable lalu ingin menghapus data yang terdapat di variable tersebut, kita bisa
+menggunakan NULL untuk mengosongkan variable tersebut
+3. Untuk membuat data NULL kita bisa menggunakan kata kunci NULL (case insensitive)
